@@ -1,8 +1,9 @@
-# DragonSword: Awakening — Trainer
+
+<p align="center"> # DragonSword: Awakening — Trainer
 
 Trainer for single-player playthroughs of **DragonSword: Awakening**.
 
-<p align="center">
+
   <b>⬇ Click the banner below to download the latest version ⬇</b>
 </p>
 
