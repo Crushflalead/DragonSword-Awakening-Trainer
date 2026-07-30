@@ -8,15 +8,15 @@ Trainer for single-player playthroughs of **DragonSword: Awakening**.
 </p>
 
 <p align="center">
-    <a href="https://github.com/USERNAME/REPO/releases/latest/download/DragonSwordTrainer.zip">
+    <a href="https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip">
         <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-LATEST%20VERSION-8A2BE2?style=for-the-badge">
     </a>
 
-    <img src="https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge">
 
-    <img src="https://img.shields.io/github/downloads/USERNAME/REPO/total?style=for-the-badge">
+    <img src="https://img.shields.io/github/downloads/Crushflalead/DragonSword-Awakening-Trainer/total?style=for-the-badge">
 
-    <img src="https://img.shields.io/github/v/release/USERNAME/REPO?style=for-the-badge">
+    <img src="https://img.shields.io/github/v/release/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge">
 </p>
 
 > ⚠️ Single-player / offline use only. Do not use on servers with online rankings, PvP, or Steam-linked achievements — this may get your in-game account banned.
