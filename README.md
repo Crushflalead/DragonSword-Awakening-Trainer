@@ -9,7 +9,7 @@ Trainer for single-player playthroughs of **DragonSword: Awakening**.
 ![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/Crushflalead/DragonSword-Awakening-Trainer/total?style=for-the-badge)
 ![Release](https://img.shields.io/github/v/release/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
-
+> 💡 **Press `INSERT` (or `F1`, depending on your configuration) to open the trainer menu.**
 </p>
 
 > ⚠️ Single-player / offline use only. Do not use on servers with online rankings, PvP, or Steam-linked achievements — this may get your in-game account banned.
