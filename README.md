@@ -3,7 +3,7 @@
 Trainer for single-player playthroughs of **DragonSword: Awakening**.
 <p align="center">
     <a href="https://github.com/USERNAME/REPO/releases/latest/download/DragonSwordTrainer.zip">
-        <img src="assets/banner.png" width="100%">
+        <img src="assets/banner.jpg" width="100%">
     </a>
 </p>
 
