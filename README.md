@@ -7,8 +7,6 @@ Trainer for single-player playthroughs of **DragonSword: Awakening**.
 
 [![Download](https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-8A2BE2?style=for-the-badge)](https://github.com/Crushflalead/DragonSword-Awakening-Trainer/releases/latest/download/DragonSwordTrainer.zip)
 ![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/Crushflalead/DragonSword-Awakening-Trainer/total?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge)
 > 💡 **Press `INSERT` (or `F1`, depending on your configuration) to open the trainer menu.**
 </p>
 
