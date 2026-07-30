@@ -1,4 +1,4 @@
-<p align="center"># DragonSword: Awakening — Trainer
+# DragonSword: Awakening — Trainer
   </p>
   
 <p align="center">
