@@ -1,5 +1,5 @@
-
-<p align="center"> # DragonSword: Awakening — Trainer
+<p align="center"> 
+# DragonSword: Awakening — Trainer
 
 Trainer for single-player playthroughs of **DragonSword: Awakening**.
 
